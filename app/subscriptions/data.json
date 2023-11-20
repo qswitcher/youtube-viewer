@@ -1,0 +1,166 @@
+{
+  "kind": "youtube#SubscriptionListResponse",
+  "etag": "HT-jP5i0xPaWzANJPq60Cr1jjHE",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 29,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#subscription",
+      "etag": "o9nKClLHUG3FLkn6-BsdVx7qJdw",
+      "id": "ipzAsFURb8HDHfZs4Cgy0JfyPKubdyS_4w4OaBU7T_A",
+      "snippet": {
+        "publishedAt": "2023-03-20T15:33:59.680662Z",
+        "title": "Beautiful Horror Music",
+        "description": "Ambient atmospheric horror music for listening at night in a dark room...\n\nSUPPORT ME\n********************\nPlease consider purchasing the HIGH QUALITY tracks at my Bandcamp page: \n🎧 https://beautifulhorrormusic.bandcamp.com/\n\nYour support will help me dedicate more time to this project and buy new gear to improve the overall quality of my music.\nPlease subscribe if you enjoy!\n\nIf you want more ambient music, check my other channels:\n🎧 https://www.youtube.com/c/AmbientBackingTracks\n🎧 https://www.youtube.com/channel/UCodCRcpMItaq8Y--k63qIGA\n\nCOPYRIGHT & LICENSING\n********************\nMusic by Cyril Michaud.\nAll rights reserved.\n\nCONTACT & BUSINESS\n********************\nFor any questions about licensing or business enquiries (like custom horror music tracks), please contact me here:\n✉️ cyril@cyrilmichaud.com\n\n#horrormusic #creepymusic #scarymusic #horrorsound #horrorbackground #darkhorror #halloweenmusic #musicbox #cinematichorror #ambientmusic #ambienthorror",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UC18NV4vp0c80H98L8_ZaHHA"
+        },
+        "channelId": "UCpLExQQsId3UvU3v2tpp7UQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/e5ulAjXXWXxkz1-lS_HC0csyzVl222KSdSiZLJyHtugW3HqrxnRAp7kvjuaYn18WIZxzVISxwA=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/e5ulAjXXWXxkz1-lS_HC0csyzVl222KSdSiZLJyHtugW3HqrxnRAp7kvjuaYn18WIZxzVISxwA=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/e5ulAjXXWXxkz1-lS_HC0csyzVl222KSdSiZLJyHtugW3HqrxnRAp7kvjuaYn18WIZxzVISxwA=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 49,
+        "newItemCount": 0,
+        "activityType": "all"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "XZYOMVsNLPwjYZok6GGwXY9ZJAQ",
+      "id": "ipzAsFURb8EWDF_Ogiwli1LXxCsn25nXghRb7M2s6fQ",
+      "snippet": {
+        "publishedAt": "2023-06-03T00:39:24.50571Z",
+        "title": "Wickens Wicked Reptiles",
+        "description": "Adam Wickens is a Canadian Comedian and YouTuber focused on making fun and educational content about animals.\nLet’s Discover reptiles together",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UC19hUEoB8Txu5E28tkg4PQA"
+        },
+        "channelId": "UCpLExQQsId3UvU3v2tpp7UQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKa5Rommq5FlzT__pfaQZQ5k1D9LVd7CHQsGuB6e=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKa5Rommq5FlzT__pfaQZQ5k1D9LVd7CHQsGuB6e=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKa5Rommq5FlzT__pfaQZQ5k1D9LVd7CHQsGuB6e=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 556,
+        "newItemCount": 0,
+        "activityType": "all"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "PAQpgs_Zjx4csISoYk87CcDZLc8",
+      "id": "ipzAsFURb8HzcUfBmBeKzWnhYzGB7QvHY8Wa09NihB0",
+      "snippet": {
+        "publishedAt": "2022-08-18T12:40:52.933837Z",
+        "title": "Aquarium Co-Op",
+        "description": "At Aquarium Co-Op, we focus on your aquariums. We specialize in aquatic plants, freshwater tropical  fish and the overall betterment of the  freshwater fish keeping hobby.\n\nOur online store offers a one-stop shop fulfilling the needs of a beginner to an advanced hobbyist. \n\nOur YouTube channel provides knowledge to further your own knowledge and confidence, taking you from just keeping fish to creating an aquarium hobby.\n\nFor more bonus content, visit us on:\n🏡 Website – aquariumcoop.com\n📘 Facebook – facebook.com/AquariumCoOp\n📚 Blog – aquariumcoop.com/blogs/aquarium\n🦉 Forum – forum.aquariumcoop.com\n📷 Instagram – instagram.com/aquariumcoop\n🎶 Tiktok – tiktok.com/@aquariumcoop",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCNJuJfXCKNWu4-VifYixs8A"
+        },
+        "channelId": "UCpLExQQsId3UvU3v2tpp7UQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/EkdUSkuKHEoWmIDtSM0UssDV5DR2yqmGXqu7fCNl0Wio1UyqLfdGPutgT0WBXVlobfSn-ScX=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/EkdUSkuKHEoWmIDtSM0UssDV5DR2yqmGXqu7fCNl0Wio1UyqLfdGPutgT0WBXVlobfSn-ScX=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/EkdUSkuKHEoWmIDtSM0UssDV5DR2yqmGXqu7fCNl0Wio1UyqLfdGPutgT0WBXVlobfSn-ScX=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 1049,
+        "newItemCount": 0,
+        "activityType": "all"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "N7O92HXZwqOHSbqD_faI_cSXrZ8",
+      "id": "ipzAsFURb8HDHfZs4Cgy0ISfz1K-phOMvOTz6uBlUI8",
+      "snippet": {
+        "publishedAt": "2022-09-28T20:33:53.97782Z",
+        "title": "Maiorianus",
+        "description": "This channel is dedicated to Julius Valerius Maiorianus, the hero emperor who almost managed to restore the Western Roman Empire, against all odds. He truly deserves a channel, that has the goal to increase his legacy so that his deeds shall be remembered. In many videos, we shall explore how and why the Roman Empire fell, and how it could have been saved by heroes like Majorian, many times.\n\nA huge shout-out to all our Patrons and YouTube members 😊 Only your support enables us to constantly improve the video quality on this channel.\n\nAnd for anyone who is new to \"Maiorianus\", by joining our Patreon or YouTube member community, you will gain access to our private Discord chat group, exclusive Q&A sessions, and many other bonus perks. You can find all relevant links for that below.\n\nYour host, Sebastian\n\nSponsorship Requests: Maiorianus@thoughtleaders.io \n\n\nIMPRESSUM\nAngaben gemäß § 5 TMG\nSebastian Todor\nc/o Block Services\nStuttgarter Str. 106\n70736 Fellbach\nUst.-id: DE327677971",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCAPLyCPMWlJ0hZCS5-A8loA"
+        },
+        "channelId": "UCpLExQQsId3UvU3v2tpp7UQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/zv-kaiKhip0zR03933QLJ9JoXfhB3lpVGYR_rYbK7N_zOY74kp5DQ8hFAticcxFEGqw7tJjp_O8=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/zv-kaiKhip0zR03933QLJ9JoXfhB3lpVGYR_rYbK7N_zOY74kp5DQ8hFAticcxFEGqw7tJjp_O8=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/zv-kaiKhip0zR03933QLJ9JoXfhB3lpVGYR_rYbK7N_zOY74kp5DQ8hFAticcxFEGqw7tJjp_O8=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 232,
+        "newItemCount": 1,
+        "activityType": "all"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "0R6c9aA3aCkF7Ft-ixKp7ishk0E",
+      "id": "ipzAsFURb8HzcUfBmBeKzZIEpuzYSm4TWeA8LeAV-lk",
+      "snippet": {
+        "publishedAt": "2022-07-31T23:47:41.329965Z",
+        "title": "KGTropicals",
+        "description": "Wanna send us something? KGTropicals has a new P.O. Box for subscribers that have something they'd like to send to us. Here's the address:\nP.O. Box 742\nEdenton NC, 27932\n\nThere are many aspects to keeping an aquarium. Many newcomers to the hobby can be quickly overwhelmed. The KGTropicals YouTube channel was created to be a place for no nonsense information about the hobby, a place where the information is delivered in a way that even the most inexperienced fish keeper could understand. Whether you want to breed aquarium fish, heal a sick or injured fish or you just want to know how to set up your first tank, KGTropicals has you covered.",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCyyGJeKITfR7Y5cq2zX4-oQ"
+        },
+        "channelId": "UCpLExQQsId3UvU3v2tpp7UQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/0zp4khhgFXoA2X8iq_NnxspBLOKjZMmGxxUYxSfrHzv2kiRAodRGGxtQWflJLghAZiWFb6xavA=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/0zp4khhgFXoA2X8iq_NnxspBLOKjZMmGxxUYxSfrHzv2kiRAodRGGxtQWflJLghAZiWFb6xavA=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/0zp4khhgFXoA2X8iq_NnxspBLOKjZMmGxxUYxSfrHzv2kiRAodRGGxtQWflJLghAZiWFb6xavA=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 1086,
+        "newItemCount": 1,
+        "activityType": "all"
+      }
+    }
+  ]
+}

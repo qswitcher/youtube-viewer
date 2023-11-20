@@ -1,0 +1,53 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "V6KwQtZBpwd5OB6V2zC6Gcxd_0o",
+  "pageInfo": { "totalResults": 1, "resultsPerPage": 5 },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "-ePK5OuGaMoUAV8XFcWCV-zVCxs",
+      "id": "UCNJuJfXCKNWu4-VifYixs8A",
+      "snippet": {
+        "title": "Aquarium Co-Op",
+        "description": "At Aquarium Co-Op, we focus on your aquariums. We specialize in aquatic plants, freshwater tropical fish and the overall betterment of the freshwater fish keeping hobby.\n\nOur online store offers a one-stop shop fulfilling the needs of a beginner to an advanced hobbyist. \n\nOur YouTube channel provides knowledge to further your own knowledge and confidence, taking you from just keeping fish to creating an aquarium hobby.\n\nFor more bonus content, visit us on:\n🏡 Website – aquariumcoop.com\n📘 Facebook – facebook.com/AquariumCoOp\n📚 Blog – aquariumcoop.com/blogs/aquarium\n🦉 Forum – forum.aquariumcoop.com\n📷 Instagram – instagram.com/aquariumcoop\n🎶 Tiktok – tiktok.com/@aquariumcoop\n",
+        "customUrl": "@aquariumcoop",
+        "publishedAt": "2013-01-15T06:48:30Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/EkdUSkuKHEoWmIDtSM0UssDV5DR2yqmGXqu7fCNl0Wio1UyqLfdGPutgT0WBXVlobfSn-ScX=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/EkdUSkuKHEoWmIDtSM0UssDV5DR2yqmGXqu7fCNl0Wio1UyqLfdGPutgT0WBXVlobfSn-ScX=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/EkdUSkuKHEoWmIDtSM0UssDV5DR2yqmGXqu7fCNl0Wio1UyqLfdGPutgT0WBXVlobfSn-ScX=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Aquarium Co-Op",
+          "description": "At Aquarium Co-Op, we focus on your aquariums. We specialize in aquatic plants, freshwater tropical fish and the overall betterment of the freshwater fish keeping hobby.\n\nOur online store offers a one-stop shop fulfilling the needs of a beginner to an advanced hobbyist. \n\nOur YouTube channel provides knowledge to further your own knowledge and confidence, taking you from just keeping fish to creating an aquarium hobby.\n\nFor more bonus content, visit us on:\n🏡 Website – aquariumcoop.com\n📘 Facebook – facebook.com/AquariumCoOp\n📚 Blog – aquariumcoop.com/blogs/aquarium\n🦉 Forum – forum.aquariumcoop.com\n📷 Instagram – instagram.com/aquariumcoop\n🎶 Tiktok – tiktok.com/@aquariumcoop\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUNJuJfXCKNWu4-VifYixs8A"
+        }
+      },
+      "statistics": {
+        "viewCount": "203414048",
+        "subscriberCount": "920000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1048"
+      }
+    }
+  ]
+}
